@@ -58,9 +58,3 @@ Les informations concernant les personnages sont récupérées à partir de l'[A
 - Helmet
 - Rate Limiting
 - Argon2
-
-
-## Auteurs
-
-- Anass Boubekri
-- Hugo Mikolajek
